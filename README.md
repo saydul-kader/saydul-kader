@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **Spring Boot**
 
-- 🌱 I’m currently learning **Angular**
+- 🌱 I’m currently learning **Node.js**
 
 - 📫 How to reach me: **saydul.kader@gmail.com**
 
